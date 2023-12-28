@@ -1,4 +1,4 @@
-# Brain Fuck Compiler Playground Online
+# Brain Fuck Playground Online
 
 Work in progress...
 
